@@ -1,0 +1,25 @@
+{
+  "name": "siri-say",
+  "version": "0.0.1",
+  "description": "tts using macos siri voices",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tts",
+    "say",
+    "macos",
+    "siri",
+    "siri-say",
+    "say-siri",
+    "siri-voice",
+    "text-to-speech"
+  ],
+  "author": "Jamie Vangeysel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamieVangeysel/siri-say-nodejs.git"
+  }
+}
