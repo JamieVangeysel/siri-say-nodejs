@@ -15,9 +15,9 @@
 
 #### speak:
 Start speaking
-##### stop
+#### stop:
 Stop speaking/exporting
-##### export
+#### export:
 Export spoken audio to WAV format audio file
 
 ## Notes
